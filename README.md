@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python,Flask,Tkinter**
 
-- 📫 How to reach me <a href="shivanshsinghein@gmail.com> mail </a>
+- 📫 How to reach me <a href="mailto:shivanshsinghein@gmail.com> mail </a>
 
 
 <h3 align="left">Languages and Tools:</h3>
