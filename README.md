@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **some new web applications**
 
-- 🌱 I’m currently learning **Django Rest**
+- 🌱 I’m currently learning **Django REST Framework**
 
 - 💬 Ask me about **Python,Flask,Tkinter**
 
