@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivansh2228&label=Profile%20views&color=0e75b6&style=flat" alt="shivansh2228" /> </p>
 
-- 🔭 I’m currently working on **some new web applications**
+- 🔭 I’m currently working on **nothing 😂**
 
-- 🌱 I’m currently learning **Django REST Framework**
+- 🌱 I’m currently learning **my school syllabus🤣🤣**
 
 - 💬 Ask me about **Python,Flask,Tkinter**
 
