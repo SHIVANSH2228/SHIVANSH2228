@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **nothing**
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **Python,Flask,Tkinter**
 
