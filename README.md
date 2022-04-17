@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **nothing**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Nothing**
 
-- 💬 Ask me about **Python,Flask,Tkinter**
+- 💬 Ask me about **Python,Flask,Tkinter, Django, Flutter**
 
 - 📫 How to reach me: <a href="mailto:shivanshsinghein@gmail.com"> Mail </a>
 
